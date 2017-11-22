@@ -1,3 +1,4 @@
+
 ## Master
 
 New languages:
@@ -5,7 +6,7 @@ New languages:
 New styles:
 
 Improvements:
-
+- [Duncan Paterson][] added *XQuery* built-ins, prolog, missing keywords, and fixed parsing of function bodies
 - Fixed Dockerfile definition when using highlight continuation parameter, by [Laurent Voullemier][]
 - Added tests & new `annotation` and `verbatim` keywords to *Crystal*, by [Benoit de Chezelles][]
 - Added missing dockerfile markup tests, by [Laurent Voullemier][]
@@ -22,6 +23,7 @@ Improvements:
 [Ahmed Atito]: https://github.com/atitoa93
 [Matthew Evans]: https://github.com/matthewevans
 [Tsuyusato Kitsune]: https://github.com/MakeNowJust
+[Duncan Paterson]: https://github.com/duncdrum
 
 ## Version 9.13.1
 
@@ -109,7 +111,6 @@ Improvements:
 [Jan T. Sott]: https://github.com/idleberg
 [Jimmy Wärting]: https://github.com/jimmywarting
 [Marcos Cáceres]: https://github.com/marcoscaceres
-
 ## Version 9.12.0
 
 New language:
