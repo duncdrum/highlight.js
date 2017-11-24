@@ -1,6 +1,6 @@
 Improvements:
 
-- [Duncan Paterson][] added *XQuery* built-ins, prolog, missing keywords, and fixed parsing of function bodies by 
+- [Duncan Paterson][] added *XQuery* built-ins, prolog, missing keywords, and fixed parsing of function bodies 
 
 [Duncan Paterson]: https://github.com/duncdrum
 
