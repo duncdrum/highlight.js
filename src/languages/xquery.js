@@ -57,7 +57,9 @@ function(hljs) {
     }, {
       begin: /\bzip\:/,
       end: /(?:zip\-file|(?:xml|html|text|binary)\-entry| (?:update\-)?entries)\b/
-    }, {
+    }, 
+    // TODO: add exist predeclareds https://github.com/eXist-db/exist/blob/6dfcbea035aa153aaeb0f7311ad165b56841275b/conf.xml.tmpl#L780
+    {
       begin: /\b(?:util|db|functx|app|xdmp|xmldb)\:/,
       end: /\(/,
       excludeEnd: true
